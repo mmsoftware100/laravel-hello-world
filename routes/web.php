@@ -16,5 +16,5 @@ Route::get('/bye', function () {
 });
 
 Route::get('/fun-fact', function () {
-    return "<h2>Good Morning</h2>";
+    return "<h2>Coding has over 700 languages.</h2>";
 });
