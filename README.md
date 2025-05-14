@@ -1,4 +1,3 @@
 # Laravel Hello World
 
-
-        // "laravel/framework": "^12.0",
+"laravel/framework": "^12.0",
